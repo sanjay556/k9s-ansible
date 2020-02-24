@@ -16,4 +16,4 @@ k8s-masters
 k8s-workers
 
 [k8s-nodes:vars]
-ansible_ssh_user=igorc
+ansible_ssh_user=vagrant
